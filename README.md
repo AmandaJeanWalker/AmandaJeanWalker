@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on the pre-work for the Tech Elevator Java bootcamp. 
+I'm currently learning how to use Git and Github. 
+I'm looking for help with nested loops. 
+How to reach me: email amanda.j.2243@gmail.com

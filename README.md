@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I'm currently working on the pre-work for the Tech Elevator Java bootcamp. 
 I'm currently learning how to use Git and Github. 
-I'm looking for help with nested loops. 
+I am working on my first big project!
 How to reach me: email amanda.j.2243@gmail.com
